@@ -22,3 +22,4 @@ A simple application that visualizes how classic sorting algorithms work step-by
 ## TODO:
 - Pseudo code sync
 - Step by step mode
+- Comparison algorithm
