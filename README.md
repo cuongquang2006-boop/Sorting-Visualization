@@ -18,3 +18,7 @@ A simple application that visualizes how classic sorting algorithms work step-by
 - Guide for building desktop UI components
 - QGraphicsView Docs — https://doc.qt.io/qt-6/qgraphicsview.html
 - Graphics framework for rendering and animations
+
+## TODO:
+- Pseudo code sync
+- Step by step mode
