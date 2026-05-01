@@ -10,6 +10,11 @@ A simple application that visualizes how classic sorting algorithms work step-by
 - How to visualize algorithm behavior using the Qt Framework
 - Designing a real-time animation system for algorithm execution
 - Managing UI updates and timing (play, pause, speed control)
+
+## Run the Project
+
+- Download and extract `sorting_vs.zip`
+- Run exe.
   
 ## Documentation:
 - Qt Documentation — https://doc.qt.io
